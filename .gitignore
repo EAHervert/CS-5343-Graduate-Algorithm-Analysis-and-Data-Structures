@@ -1,0 +1,20 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+a.out
+build/
+bin/
+cmake-build-*/
+solution
+main
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
